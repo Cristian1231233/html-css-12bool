@@ -21,11 +21,14 @@
     flex-basis: 0;
     max-width: 100%;
 }
-.col-background{
-    background-color: #006CFA;
-}
+
+
 .nested{
-     background-color: green;
+     background-color: green; 
+     
+}
+.padding{
+    padding: 9px;
 }
 
 [class*='col-'] {
